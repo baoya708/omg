@@ -1,0 +1,10 @@
+body{
+  font-family: "Open Sans", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  color: #333;
+  background: #ffe26a;
+}
+.wrapper {
+  background-image: url(../img/bg_bright.png), url(../img/bg_about_body.png);
+  background-position: 50% 40px, 50% 0;
+  background-repeat: no-repeat,repeat;
+}
